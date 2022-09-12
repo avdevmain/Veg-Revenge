@@ -18,6 +18,7 @@ TagManager:
   - Ladder
   - Room
   - Enemy
+  - Sellable
   layers:
   - Default
   - TransparentFX
